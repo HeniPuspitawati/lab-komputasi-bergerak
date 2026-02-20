@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Modul Praktikum React Native",
+    "slug": "modul-praktikum-react-native",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#3498db"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "ac.id.unismuh.ft.lab.praktikum"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#3498db"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "ac.id.unismuh.ft.lab.praktikum"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "author": "Laboratorium Informatika - UNISMUH Makassar"
+    }
+  }
+}
